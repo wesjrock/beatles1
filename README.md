@@ -18,8 +18,9 @@ LANGUAGES AND FRAMEWORKS
 * Twitter Bootstrap for Responsive Design
 * RequireJS for assyncronous module script loading
 
-PERFORMANCE
+PERFORMANCE 
 --------------------------------------------------
+* Tested in 2017
 * The website has pagespeed score 100 on Google PageSpeed Tool performance report for the Desktop Category.
 * All images have been compressed and the web server configuration file also make use of gzip compression.
 * The website has been tested on different platforms through a User-Agent Switcher, therefore it works on different browsers and devices.
