@@ -20,7 +20,7 @@ LANGUAGES AND FRAMEWORKS
 
 PERFORMANCE 
 --------------------------------------------------
-* Tested in 2017
+* Tested in 2019
 * The website has pagespeed score 100 on Google PageSpeed Tool performance report for the Desktop Category.
 * All images have been compressed and the web server configuration file also make use of gzip compression.
 * The website has been tested on different platforms through a User-Agent Switcher, therefore it works on different browsers and devices.
